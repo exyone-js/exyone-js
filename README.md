@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-This is my **Playground**.
+Here I share experiments, side projects, and things I'm learning.
 
-My Blog ➡️ [Exyone's Blog](https://exyon.ee)
+**My Blog** ➡️ [Exyone's Blog](https://exyon.ee)
 
-📫 _For production projects and collaborations, please reach out to my emails._
+📫 _For production projects and collaborations, please reach out via email._
 
 ---
 
